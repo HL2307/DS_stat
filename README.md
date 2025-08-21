@@ -6,5 +6,5 @@ only some simple example in the stat in
 
 
 
-data is from: https://github.com/andrewgbruce/statistics-for-data-scientists
+data is from:https://github.com/gedeck/practical-statistics-for-data-scientists/tree/master/data
 
